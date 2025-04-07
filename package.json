@@ -1,7 +1,15 @@
 {
     "name": "azure-appconfiguration-helper-mcp",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "An MCP server that helps people develop application with Azure App Configuration.",
+    "files": [
+      "dist/**/*.js",
+      "cli.js",
+      "index.d.ts",
+      "index.js",
+      "LICENSE",
+      "README.md"
+    ],
     "repository": {
       "type": "git",
       "url": "git+https://github.com/zhiyuanliang-ms/AzureAppConfigurationHelper-MCP.git"
