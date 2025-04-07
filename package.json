@@ -1,6 +1,6 @@
 {
     "name": "azure-appconfiguration-helper-mcp",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "An MCP server that helps people develop application with Azure App Configuration.",
     "files": [
       "dist/**/*.js",
