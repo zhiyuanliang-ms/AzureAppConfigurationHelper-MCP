@@ -1,5 +1,7 @@
 # AzureAppConfigurationHelper-MCP
 
+[![azure-appconfiguration-helper-mcp](https://img.shields.io/npm/v/azure-appconfiguration-helper-mcp?label=azure-appconfiguration-helper-mcp)](https://www.npmjs.com/package/azure-appconfiguration-helper-mcp)
+
 An MCP server that helps people develop application with Azure App Configuration.
 
 ## Usage
